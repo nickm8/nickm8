@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://adventofcode.com/2024">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎄%20Advent%20of%20Code%202024;Join%20the%20Holiday%20Fun&font=Fira%20Code&center=true&width=440&height=45&color=22c55e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=🎄%20Advent%20of%20Code%202024;🔗Join%20the%20Holiday%20Fun&font=Fira%20Code&center=true&width=440&height=45&color=22c55e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
