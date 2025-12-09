@@ -1,45 +1,38 @@
-<p align="center">
-  <a href="https://adventofcode.com/2024">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎄%20Advent%20of%20Code%202024;Join%20the%20Holiday%20Fun&font=Fira%20Code&center=true&width=440&height=45&color=22c55e&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/nickm8/day-1"><img src="https://readme-advent-calendar.vercel.app/api/advent?day=1&emoji=📜&message=Historian%20Hysteria&animate=true&delay=1" width="130" /></a>
-  <a href="https://github.com/nickm8/day-2"><img src="https://readme-advent-calendar.vercel.app/api/advent?day=2&emoji=⚛️&message=Red-Nosed%20Reports&animate=true&delay=2" width="130" /></a>
-  <a href="https://github.com/nickm8/day-3"><img src="https://readme-advent-calendar.vercel.app/api/advent?day=3&emoji=🧮&message=Mull%20It%20Over&animate=true&delay=3" width="130" /></a>
-  <a href="https://github.com/nickm8/day-4"><img src="https://readme-advent-calendar.vercel.app/api/advent?day=4&emoji=🔎&message=Ceres%20Search&animate=true&delay=4" width="130" /></a>
-</p>
-<p align="center">
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=5&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=6&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=7&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=8&locked=true" width="130" /></a>
-</p>
-<p align="center">
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=9&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=10&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=11&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=12&locked=true" width="130" /></a>
-</p>
-<p align="center">
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=13&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=14&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=15&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=16&locked=true" width="130" /></a>
-</p>
-<p align="center">
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=17&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=18&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=19&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=20&locked=true" width="130" /></a>
-</p>
-<p align="center">
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=21&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=22&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=23&locked=true" width="130" /></a>
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=24&locked=true" width="130" /></a>
-</p>
-<p align="center">
-  <a href=""><img src="https://readme-advent-calendar.vercel.app/api/advent?day=25&locked=true" width="130" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;ML+%2B+Healthcare;Neurotech+Explorer;Building+with+LLMs)](https://git.io/typing-svg)
+
+</div>
+
+**AI Engineer** building AI / ML systems for healthcare.
+
+## 🏆 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/ad6c5199-5d5f-470a-bdf2-5d3169d21a78/public_url">
+    <img src="https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" alt="Machine Learning with Python" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/fc4051a6-1f28-4751-848f-a4306c0a56ea/public_url">
+    <img src="https://images.credly.com/images/1019961c-b2c6-40f8-a0c7-5f9d018def76/blob" alt="IBM AI Engineering Professional Certificate" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/d5088695-206f-4780-aa08-8fda82e096fb/public_url">
+    <img src="https://images.credly.com/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png" alt="IBM AI Engineering Professional Certificate (V2)" width="150"/>
+  </a>
+</div>
+
+
+## 🧠 Interests
+
+**Neurotech & BCI**
+* Experimented with EEG development (Emotiv headset) out of personal interest.
+* Following advances in neural signal processing and brain-computer interfaces.
+
+
+**Healthtech & ML**
+* Building tools that improve clinical workflows and patient outcomes.
+
+
+## 🛠 Tech
+* **ML/AI:** LLM fine-tuning, RAG pipelines, Keras, supervised/unsupervised learning
+* **Infrastructure:** GCP (Model Garden, VertexAI), Ollama, Nix
+* **Domain:** Clinical workflows, EEG, data curation, cross-functional communication
