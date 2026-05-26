@@ -26,7 +26,7 @@ Built production clinical AI workflows — the gap between a promising LLM demo 
 
 ## 🏠 Homelab
 
-My 3D visualisation of my homelab + headscale + Pangolin infrastructure — nodes, services, and network topology in WebGL.
+The Expanse inspired 3D visualisation of my homelab + headscale + Pangolin infrastructure — nodes, services, and network topology in WebGL.
 
 <div align="center">
   <img src="assets/visual-homelab.png" alt="Interactive 3D homelab topology visualisation" width="100%"/>
