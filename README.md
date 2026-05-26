@@ -11,6 +11,10 @@ Primary dev activity on [self-hosted Gitea](https://gitea.yourai.sh) — 6,600+ 
   <img src="assets/gitea-activity.png" alt="Gitea contribution activity — 6,602 contributions in last 12 months" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="assets/visual-homelab.png" alt="Interactive 3D homelab topology visualisation" width="100%"/>
+</div>
+
 ---
 
 ## 🧠 Interests
